@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**davmarek/davmarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Czech Republic. I enjoy building things across the stack — web apps, mobile apps, and everything in between.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web**
+
+`PHP` `Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `React` `TypeScript` `ASP.NET` `C#`
+
+**Tools & DevOps**
+
+`Git` `Linux` `Docker` `Azure DevOps`
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [weather-app-react](https://github.com/davmarek/weather-app-react) | Weather forecast app | React, TypeScript |
+| [school-test-generator](https://github.com/davmarek/school-test-generator) | App for teachers to build and export school tests as PDFs | Laravel, Blade |
+| [shouts-app-android](https://github.com/davmarek/shouts-app-android) | Twitter-inspired microblogging Android app | Kotlin |
+| [until-app-ios](https://github.com/davmarek/until-app-ios) | iOS app for tracking birthdays and Czech namedays | Swift, SwiftUI |
+
+## 🎓 Currently
+
+Finishing my Master's degree in Software Engineering at UTB Zlín - thesis: a web app for managing renewable energy sharing communities.
