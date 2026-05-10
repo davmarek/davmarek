@@ -18,6 +18,7 @@ Software engineer based in Czech Republic. I enjoy building things across the st
 |---|---|---|
 | [weather-app-react](https://github.com/davmarek/weather-app-react) | Weather forecast app | React, TypeScript |
 | [school-test-generator](https://github.com/davmarek/school-test-generator) | App for teachers to build and export school tests as PDFs | Laravel, Blade |
+| [bmp-editor](https://github.com/davmarek/bmp-editor) | Lightweight BMP image editor | C, raylib |
 | [shouts-app-android](https://github.com/davmarek/shouts-app-android) | Twitter-inspired microblogging Android app | Kotlin |
 | [until-app-ios](https://github.com/davmarek/until-app-ios) | iOS app for tracking birthdays and Czech namedays | Swift, SwiftUI |
 
