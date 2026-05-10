@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-Software engineer based in Czech Republic. I enjoy building things across the stack — web apps, mobile apps, and everything in between.
+Software engineer based in Czech Republic. I enjoy building things across the stack - web apps, mobile apps, and everything in between.
 
 ## 🔧 What I work with
 
