@@ -25,4 +25,4 @@ Software engineer based in Czech Republic. I enjoy building things across the st
 
 ## 🎓 Currently
 
-Finishing my Master's degree in Software Engineering at UTB Zlín - thesis: a web app for managing renewable energy sharing communities.
+Master's graduate in Software Engineering from UTB Zlín. Working as a frontend developer, making great things in Angular.
