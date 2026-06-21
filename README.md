@@ -6,7 +6,7 @@ Software engineer based in Czech Republic. I enjoy building things across the st
 
 **Web**
 
-`PHP` `Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `React` `TypeScript` `ASP.NET` `C#`
+`Angular` `PHP` `Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `React` `TypeScript` `.NET` `C#`
 
 **Tools & DevOps**
 
@@ -16,10 +16,11 @@ Software engineer based in Czech Republic. I enjoy building things across the st
 
 | Project | Description | Stack |
 |---|---|---|
+| [solar-hello](https://github.com/davmarek/solar-hello) | Masters thesis project for monitoring solar energy sharing | Laravel, Livewire, Flux UI |
 | [school-test-generator](https://github.com/davmarek/school-test-generator) | App for teachers to build and export school tests as PDFs | Laravel, Blade |
 | [bmp-editor](https://github.com/davmarek/bmp-editor) | Lightweight BMP image editor | C, raylib |
 | [js-katas](https://github.com/davmarek/js-katas) | Collection of games and apps in Vanilla JS| JavaScript |
-| [weather-app-react](https://github.com/davmarek/weather-app-react) | Weather forecast app | React, TypeScript |
+| [weather-app-react](https://github.com/davmarek/weather-app-react) | Weather forecast web app | React, TypeScript |
 | [shouts-app-android](https://github.com/davmarek/shouts-app-android) | Twitter-inspired microblogging Android app | Kotlin |
 | [until-app-ios](https://github.com/davmarek/until-app-ios) | iOS app for tracking birthdays and Czech namedays | Swift, SwiftUI |
 
